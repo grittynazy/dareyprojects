@@ -63,3 +63,17 @@ I committed it and pushed to the remote repository
 ![](./img/git%20push.png)
 
 ## Jerry's Work
+I switched back to Main branch
+![](./img/git%20checkout2.png)
+
+I pulled the latest changes
+![](./img/git%20pull.png)
+
+I created a new branch named add-contact-info for Jerry's work
+![](./img/git%20checkout3.png)
+
+I staged and committed Jerry's changes
+![](./img/git%20add-commit.png)
+
+I pushed Jerry's branch to Github
+![](./img/git%20push2.png)
