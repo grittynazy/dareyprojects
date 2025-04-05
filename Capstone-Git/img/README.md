@@ -61,6 +61,7 @@ I pulled the latest changes from the main branch into update-events branch
 
 I pushed to my Github repository on the update-events branch
 ![](./git%20push%20tom.png)
+![](./update-events%20url.png)
 
 I created a pull request and merged the changes to the main branch
 ![](./pull%20request%20tom.png)
