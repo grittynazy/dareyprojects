@@ -20,6 +20,6 @@ I created the shell script and commented in it
 I gave execute permissions and ran the script
 ![](./chmod-run-multi.png)
 
-I ran a script that prints a welcome message, create a directory, lists the files in the files in the current directory and displays a goodbye message
+
 
 
