@@ -20,6 +20,10 @@
  ![](./vi-cat4.png)
  ![](./run4.png)
 
+ I then added an else statement
+ ![](./vi-cat5.png)
+ ![](./run5.png)
+
  ## LOOPS
  For loops, I practised the List form and the C-style loop
  In the list form , I practiced a basic and range syntax loop styles
@@ -31,8 +35,8 @@
  ![](./run%20basic.png)
 
 Range syntax
-![](./vi-cat-syntax.png)
-![](./run-syntax.png)
+![](./vi-cat-syntax2.png)
+![](./run-syntax2.png)
 
 For the C loop, I also created a script
 ![](./vi-cat-cstyle.png)
