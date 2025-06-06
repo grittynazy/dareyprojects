@@ -30,3 +30,30 @@ and created the first admin user
 
 This is the newly created admin profile on the jenkins console
 ![](./9.png)
+
+## Creating first build job
+On the dashboard, I clicked on new item and created a freestyle project named my-first-job
+![](./10.png)
+
+I created a new repository on Github and copied the code
+![](./17.png)
+
+I then inserted the github repo link in jenkins 
+![](./11.png)
+
+I changed the branch from master to main and started the build
+![](./12.png)
+
+This is the status of the manual build
+![](./13.png)
+
+I then set the build trigger on Jenkins to automatically run a build when a change is made to the repo, comitted and pushed
+![](./14.png)
+
+I configured Github webhooks to make sure Jenkins is receiving webhook POST requests from GitHub
+![](./15.png)
+
+After configuring the webhooks, I made a change to the README file, and a build was automatically run in Jenkins
+![](./16.png)
+
+![](./18.png)
