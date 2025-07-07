@@ -62,5 +62,16 @@ I tested the app locally first and then pushed the changes to github
 The changes reflected on AWS
 ![](./20.png)
 
+I implemented matrix builds to test across muktiple versions in order to increase efficiency
+![](./24.png)
 
+#### Adding Code Analysis Tools
+I also integrated code analysis tools into the Github Actions workflow
+![](./25.png)
 
+#### Configuring linters and Static code Analysis
+I ensured my repository included configuration file for .eslintrc
+![](./26.png)
+
+I then pushed the cchanges to github
+![](./17.png)
