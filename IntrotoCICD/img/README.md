@@ -75,3 +75,19 @@ I ensured my repository included configuration file for .eslintrc
 
 I then pushed the cchanges to github
 ![](./17.png)
+
+#### Automated Versioning with Github Actions
+I implemented automated versioning to increment version numbers automatically based on code changes. The action below will automatically increment a patch version and create a new tag each time changes are pushed to the main branch
+![](./27.png)
+
+#### Automating Releases
+I setup my workflow to create a new release whenever a new tag is pushed to the repository
+![](./28.png)
+
+I had to change the settings on my github repo to allow workflows have read and write permissions and allow github actions to create and approve requests.
+![](./31.png)
+
+I pushed my commit with the version tag and the pipeline ran successfully
+![](./29.png)
+
+![](./32.png)
