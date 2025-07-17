@@ -29,6 +29,16 @@ The following commands downloads minikube's binary and installs minikube using d
 
 The following commands start minikube and downloads kubectl to interact with the kubernetes cluster
 
-![](./9.png)
+![](./11.png)
+![](./12.png)
 
 ![](./10.png)
+
+I tried to interact with cluster using kubectl
+![](./13.png)
+
+I ran the minikube dashboard command. The minikube dashboard is a command that opens a web-based Kubernetes dashboard for a local Kubernetes cluster running via Minikube.
+
+![](./14.png)
+
+![](./16.png)
