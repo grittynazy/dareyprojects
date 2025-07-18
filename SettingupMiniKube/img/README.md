@@ -42,3 +42,27 @@ I ran the minikube dashboard command. The minikube dashboard is a command that o
 ![](./14.png)
 
 ![](./16.png)
+
+## Working With Kubernetes Nodes
+I ran minikube start and it completed successfully. This implies I have just launched a single-node Kubernetes cluster locally. I then verified the cluster is running
+![](./17.png)
+
+![](./18.png)
+
+I then created a simple kubernetes deployment, exposed it and viewed it in my browser
+![](./19.png)
+
+![](./20.png)
+
+![](./21.png)
+
+![](./22.png)
+
+I checked the logs to verify that everything was working fine
+![](./23.png)
+
+I then scaled the deployment to 3 replicas and confirmed that the number of pods had increased to 3
+![](./24.png)
+
+I then stopped the running minikube preserving the cluster state and deleted the minikube kubernetes cluster and its associated resources
+![](./25.png)
