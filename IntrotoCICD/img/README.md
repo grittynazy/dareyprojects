@@ -87,7 +87,8 @@ I setup my workflow to create a new release whenever a new tag is pushed to the 
 I had to change the settings on my github repo to allow workflows have read and write permissions and allow github actions to create and approve requests.
 ![](./31.png)
 
-I pushed my commit with the version tag and the pipeline ran successfully
+I pushed my commit with the version tag
+ and the pipeline ran successfully
 ![](./29.png)
 
 ![](./32.png)
