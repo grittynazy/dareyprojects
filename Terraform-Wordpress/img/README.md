@@ -1,4 +1,4 @@
-# TERRAFORM WORDPRESS
+# TERRAFORM CAPSTONE PROJECT - AUTOMATED WORDPRESS DEPLOYMENT ON AWS
 In this project, I designed and implemented a scalable, secure, and cost-effective Wordpress solution using various AWS services and I automated via terraform.
 
 In the terraform scripts, I set up a VPC with 2 public subnets (for resources accessible from the internet) and 4 private subnets (for resources with no direct internet access), comprising of 2 appsubnets and 2 database subnets in 2 different availability zones
