@@ -29,3 +29,26 @@ Firstly, I updated my package repository, then I installed ansible on the contro
 ![](./12.png)
 
 ![](./13.png)
+
+I then created an ansible playbook to automate user creation. The playbook included group and ssh key configuration. I then verified user creation and tested ssh access for newly created users.
+
+![](./15.png)
+
+![](./16.png)
+
+![](./17.png)
+
+![](./18.png)
+
+![](./19.png)
+
+![](./20.png)
+
+![](./21.png)
+
+![](./22.png)
+
+![](./23.png)
+
+![](./24.png)
+
