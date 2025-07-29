@@ -30,6 +30,8 @@ Firstly, I updated my package repository, then I installed ansible on the contro
 
 ![](./13.png)
 
+### Create an Ansible Playbook to automate user creation
+
 I then created an ansible playbook to automate user creation. The playbook included group and ssh key configuration. I then verified user creation and tested ssh access for newly created users.
 
 ![](./15.png)
@@ -52,3 +54,28 @@ I then created an ansible playbook to automate user creation. The playbook inclu
 
 ![](./24.png)
 
+### Create an Ansible Playbook to Install Nginx
+
+I created playbook files for installing Nginx and configuring a custom Nginx website using Ansible. I erified the Nfinx deployment and opened the target server's Ip address in a web browser to access the custom website.
+
+![](./25.png)
+
+![](./26.png)
+
+![](./27.png)
+
+![](./28.png)
+
+![](./29.png)
+
+![](./30.png)
+
+![](./31.png)
+
+![](./32.png)
+
+![](./33.png)
+
+![](./34.png)
+
+![](./35.png)
