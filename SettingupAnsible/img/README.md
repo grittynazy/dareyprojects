@@ -79,3 +79,19 @@ I created playbook files for installing Nginx and configuring a custom Nginx web
 ![](./34.png)
 
 ![](./35.png)
+
+### Backup and Restore Files on a Linux Server using Ansible
+
+I created playbook files for backup to a target server and restore back to the original server. I ran the playbooks and verified the backup directory and files on the target server and the restore files in the original directory
+
+![](./36.png)
+
+![](./37.png)
+
+![](./38.png)
+
+![](./39.png)
+
+![](./40.png)
+
+![](./41.png)
